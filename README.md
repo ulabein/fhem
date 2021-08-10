@@ -99,7 +99,7 @@ https://avm.de/service/vpn/tipps-tricks/vpn-verbindung-zur-fritzbox-unter-apple-
 
 ## Business-Optimum und CS_Steuerung
 
-Es gibt zwei Zusatprogramme welche die Caterva am Ein- bzw. Ausspeichern hindern falls der Ladeleistung bzw. die Entladeleistung relativ gering ist. Mit diesen Programmen soll der Wirkungsgrad der Anlage erhöht werden. Das Business Optimumg von Siegfreid wurde nicht allen zugänglich gemacht worauf Uli eine alternative Lösung programmiert hat. FHEM unterstützt wahlweise beide Varianten wobei die Business Optimum Variante nicht weiter gepflegt wird.<br>
+Es gibt zwei Zusatprogramme welche die Caterva am Ein- bzw. Ausspeichern hindern falls der Ladeleistung bzw. die Entladeleistung relativ gering ist. Mit diesen Programmen soll der Wirkungsgrad der Anlage erhöht werden. Das Business Optimumg von Siegfreid wurde nicht allen zugänglich gemacht worauf das Technikteam eine alternative Lösung programmiert hat die einen abgespeckteren Funktionsumfang hat. FHEM unterstützt wahlweise beide Varianten wobei die Business Optimum Variante nicht weiter gepflegt wird.<br>
 <br>
 Um die FHEM Oberfläche zu aktivieren muss ein Konfigurationsfile angepasst werden.<br>
 Dazu muss man sich mit Remotedesktop am Raspberry anmelden und ein Terminalfenster öffnen.<br>
